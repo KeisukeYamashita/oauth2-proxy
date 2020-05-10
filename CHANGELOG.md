@@ -8,6 +8,8 @@
 
 ## Changes since v6.0.0
 
+- [#542](https://github.com/oauth2-proxy/oauth2-proxy/pull/542) Move SessionStore tests to independent package (@JoelSpeed)
+
 # v6.0.0
 
 ## Release Highlights
