@@ -8,6 +8,8 @@
 
 ## Changes since v6.0.0
 
+- [#561](https://github.com/oauth2-proxy/oauth2-proxy/pull/561) Create generic Authorization Header constructor (@JoelSpeed)
+
 # v6.0.0
 
 ## Release Highlights
