@@ -8,6 +8,8 @@
 
 ## Changes since v6.0.0
 
+- [#619](https://github.com/oauth2-proxy/oauth2-proxy/pull/619) Improve Redirect to HTTPs behaviour (@JoelSpeed)
+
 # v6.0.0
 
 ## Release Highlights
